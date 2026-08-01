@@ -1,2 +1,2 @@
 # Snake-Game
- A simple snake game developed using python and pygame
+A classic snake game developed using HTML,CSS and JavaScript with smooth controls and score tracking.
