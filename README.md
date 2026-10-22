@@ -1,26 +1,26 @@
-# 🐍 Snake Game
+# Snake Game
 
 A classic Snake Game built using **HTML, CSS, and JavaScript** with a modern neon-green design. Control the snake, collect food, increase your score, and try to beat your high score!
 
-## ✨ Features
+## Features
 
-- 🎮 **Classic Gameplay:** Control the snake and collect food to grow.
-- 🟢 **Neon UI:** Dark background with glowing green snake effects.
-- 📊 **Score Tracking:** Earn 10 points for every food item collected.
-- 🏆 **High Score:** Tracks the highest score during the current session.
-- ⏸️ **Pause & Resume:** Pause or resume the game using the Spacebar.
-- 🔄 **Restart Option:** Start a new game whenever you want.
-- 💥 **Game Over Detection:** The game ends if the snake hits a wall or itself.
-- ⌨️ **Keyboard Controls:** Use arrow keys or WASD to move the snake.
+- **Classic Gameplay:** Control the snake and collect food to grow.
+- **Neon UI:** Dark background with glowing green snake effects.
+- **Score Tracking:** Earn 10 points for every food item collected.
+- **High Score:** Tracks the highest score during the current session.
+- **Pause & Resume:** Pause or resume the game using the Spacebar.
+- **Restart Option:** Start a new game whenever you want.
+- **Game Over Detection:** The game ends if the snake hits a wall or itself.
+- **Keyboard Controls:** Use arrow keys or WASD to move the snake.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5** – Structure of the game.
 - **CSS3** – Styling, layout, and neon visual effects.
 - **JavaScript** – Game logic, movement, collision detection, and scoring.
 - **HTML Canvas API** – Rendering the snake and food.
 
-## 🎯 How to Play
+## How to Play
 
 1. Open the game in your web browser.
 2. Click the **START / RESTART** button or press the Spacebar to start.
@@ -29,7 +29,7 @@ A classic Snake Game built using **HTML, CSS, and JavaScript** with a modern neo
 5. Avoid hitting the walls or the snake's own body.
 6. Try to achieve the highest score possible!
 
-## 🎮 Controls
+## Controls
 
 | Key | Action |
 |---|---|
@@ -39,7 +39,7 @@ A classic Snake Game built using **HTML, CSS, and JavaScript** with a modern neo
 | → / D | Move Right |
 | Spacebar | Start, Pause, or Resume |
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Run Locally
 
@@ -59,7 +59,7 @@ A classic Snake Game built using **HTML, CSS, and JavaScript** with a modern neo
 
 **No additional libraries or installations are required.**
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 snake-game/
@@ -69,7 +69,7 @@ snake-game/
 
 The project contains HTML, CSS, and JavaScript in a single file.
 
-## 💡 Learning Outcomes
+## Learning Outcomes
 
 This project demonstrates practical knowledge of:
 
@@ -80,7 +80,7 @@ This project demonstrates practical knowledge of:
 - DOM manipulation and dynamic score updates.
 - CSS styling and visual effects.
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Save the high score using Local Storage.
 - Add sound effects and background music.
